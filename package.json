@@ -1,0 +1,14 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose dominguez",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
